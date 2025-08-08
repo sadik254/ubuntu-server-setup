@@ -88,11 +88,11 @@ Remember to manually configure your firewall to open ports for any database serv
     ```
 ## 🙋 About the Author
 Developed with ❤️ by Md. Saleh Sadik
- - [https://github.com/sadik254](🔗 GitHub:)
+ - [🔗 GitHub:](https://github.com/sadik254)
  - 📧 Email: sadik254@gmail.com
 
 ## 📄 License
-[LICENSE](This Project is Licensed under the MIT License)
+[This Project is Licensed under the MIT License](LICENSE)
 
 ## ⭐️ Contribute
 Feel free to fork this project and submit PRs or suggestions!
