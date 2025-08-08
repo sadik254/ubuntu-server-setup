@@ -1,3 +1,6 @@
+[![Latest Version](https://img.shields.io/github/v/release/sadik254/ubuntu-server-setup?style=flat-square)](https://github.com/sadik254/ubuntu-server-setup/releases)  
+[![License](https://img.shields.io/github/license/sadik254/ubuntu-server-setup?style=flat-square)](LICENSE) 
+
 # Ubuntu Server Setup Script
 
 A fully interactive Bash script for setting up and configuring your Ubuntu server with popular tools like Apache, Nginx, MySQL, PostgreSQL, MongoDB, PHP, Node.js, Composer, PM2, and more.
